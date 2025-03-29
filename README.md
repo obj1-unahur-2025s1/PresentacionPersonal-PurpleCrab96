@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](./Australian-actor-Chris-Hemsworth-2019.webp)
 
 # Programación con objetos I
 ## Presentación Personal
